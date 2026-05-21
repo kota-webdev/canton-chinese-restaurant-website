@@ -37,6 +37,12 @@ justify-content: center;
   width: 100%;
 }
 
+.nav-item {
+text-align:center;
+justify-content: center;
+align-items: center;
+}
+
 .bg-container {
   position: relative;
   display: flex;
