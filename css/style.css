@@ -73,12 +73,12 @@ text-align: center;
   justify-content: center;
   min-height: 80vh;
   margin: 0 auto;
+  margin-top: 80px;
   clear: both;
 }
 
 .header-text {
   color: white;
-  position: absolute;
   z-index: 10;
   font-size: clamp(3rem, 10vw, 7rem);
   font-family: "Italianno", cursive;
@@ -111,7 +111,7 @@ p {
   font-style: normal;
   overflow: hidden;
   white-space: nowrap;
-  bottom: 40%;
+  margin-bottom: 20px;
   left: 38%;
   z-index: 10;
   text-shadow: 2px 2px 4px rgba(0,0,0,30);
