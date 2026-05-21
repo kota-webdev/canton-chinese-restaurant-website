@@ -5,9 +5,15 @@
 }
 
 body {
+  display: flex;
+  margin: 0;
   background: #ffe9c1;
   font-family: "Playfair Display", serif;
   
+}
+
+main {
+  flex: 1;
 }
 
 .bg-low-opacity {
@@ -246,7 +252,13 @@ footer {
   display: block;
   margin-top: 100px;
   color: white;
-  font-size: 1.5rem;
+  font-size: 30px;
+  margin-left: 100px;
+}
+
+.footer {
+  margin-left: 100px;
+  
 }
 
 iframe {
@@ -258,7 +270,8 @@ iframe {
 }
 
 h6 {
-  display: flex;
+  display: block;
+  text-align: center;
   position: relative;
   font-family: "Playfair Display", serif;
   font-weight: 400;
@@ -266,6 +279,8 @@ h6 {
   margin-top: 40px;
   margin-left: 50%;
   margin-right: 50%;
+  width: fit-content;
+  white-space: nowrap;
   font-size: 2rem;
   color: white;
 }
