@@ -24,6 +24,7 @@ body {
   filter: brightness(150%);
 }
 
+
 .bg-container {
   position: relative;
   text-align: center;
@@ -124,7 +125,7 @@ white-space: nowrap;
 overflow: hidden;
 top: 15%;
 left: 5%;
-  margin: 50px, 0, 25px, 5%;
+margin: 50px, 0, 25px, 5%;
 transform: translate(-50%, -50%);
 }
 
@@ -271,6 +272,16 @@ h6 {
   margin-left: 60px;
   top: 60px;
   
+}
+
+.footer-content {
+  background-color: #620808;
+  filter: brightness(150%);
+  padding: 20px 100px;
+  width: 300vh;
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
 }
 
 
