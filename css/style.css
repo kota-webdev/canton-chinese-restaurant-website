@@ -24,6 +24,11 @@ body {
   filter: brightness(150%);
 }
 
+.navbar-nav {
+width: 100%;
+text-align: center;
+}
+
 .bg-container {
   position: relative;
   text-align: center;
