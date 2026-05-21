@@ -89,6 +89,10 @@ h2 {
   text-align: center;
 }
 
+h1 {
+  margin-bottom: 100px;
+}
+
 
 .food-item {
   width: 100%;
