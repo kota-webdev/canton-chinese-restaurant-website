@@ -276,6 +276,13 @@ h6 {
   
 }
 
+footer {
+  width: 100%;
+  left: 0;
+  right: 0;
+  position: relative;
+}
+
 .footer-content {
   background-color: #620808;
   filter: brightness(150%);
