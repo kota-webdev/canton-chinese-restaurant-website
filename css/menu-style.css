@@ -86,7 +86,8 @@ h2 {
   font-weight: 600;
   margin-left: 50px;
   margin-right: 50px;
-  text-align: center;
+  text-align: left;
+  padding-left: 10px;
 }
 
 
