@@ -12,6 +12,7 @@ body {
   font-family: "Playfair Display", serif;
   overflow-x: hidden;
   align-items: center;
+  padding-top: 80px;
   
 }
 
@@ -75,6 +76,7 @@ text-align: center;
   margin: 0 auto;
   margin-top: 80px;
   clear: both;
+  padding-top: 100px;
 }
 
 .header-text {
