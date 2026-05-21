@@ -118,4 +118,23 @@ font-style: italic;
     position: absolute;
     font-size: 3rem;
   }
+
+  header {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  text-align: center;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  top: 0;
+  height: 80px;
+}
+
+
+main {
+  justify-content: center;
+align-items:center;
+}
+
 }
