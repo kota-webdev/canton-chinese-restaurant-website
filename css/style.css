@@ -27,6 +27,8 @@ body {
 .navbar-nav {
 width: 100%;
 text-align: center;
+margin-left: 50%;
+margin-right: 50%;
 }
 
 .bg-container {
@@ -232,7 +234,7 @@ transform: none;
   top: 0px;
   align-items: center;
   border: 0;
-  margin: 50px 0 auto;
+  margin: 100px 0 auto;
   margin-bottom: 500px;
 }
 
@@ -240,9 +242,11 @@ transform: none;
   padding-top: 100px;
 }
 
-.footer {
+footer {
   display: block;
   margin-top: 100px;
+  color: white;
+  font-size: 1.5rem;
 }
 
 iframe {
@@ -274,7 +278,7 @@ h6 {
   color: white;
   font-size: 250;
   gap: 10px;
-  margin-left: 60px;
+  margin-left: 200px;
 }
 
 .Times {
