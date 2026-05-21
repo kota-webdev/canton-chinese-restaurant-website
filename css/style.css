@@ -46,6 +46,10 @@ align-items:center;
   width: 100%;
   object-fit: cover;
   height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 56px;
 }
 
 .navbar {
