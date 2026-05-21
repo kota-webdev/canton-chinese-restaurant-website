@@ -113,6 +113,11 @@ p {
   content: "";
 }
 
+h3 {
+  text-align: left;
+  padding-left: 20px;
+}
+
 .Most-Popular {
 position: absolute;
 color: black;
