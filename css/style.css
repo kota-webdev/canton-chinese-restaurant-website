@@ -74,6 +74,9 @@ text-align: center;
   min-height: 80vh;
   margin: 0 auto;
   margin-top: 80px;
+  height: 100vh; 
+  background-size: cover;
+  background-position: center;
   clear: both;
 }
 
