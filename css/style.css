@@ -304,9 +304,18 @@ footer {
 
 
 @media screen and (max-width:768px) {
+
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
   .header-text { 
-    top: 20%;
-    font-size: 4rem;
+    margin-top: 0;
+    font-size: 3.5rem;
   }
   .sub-heading {
     top: 45%
@@ -315,14 +324,16 @@ footer {
   }
 
   .Most-Popular {
-    position: static;
-    text-align: center;
-    margin: 40px, 0;
+    margin: 30px, 0;
     font-size: 2rem;
   }
 
   .food-item {
     margin-top: 20px;
+  }
+
+  p {
+font-size: 1.5'
   }
 
 }
