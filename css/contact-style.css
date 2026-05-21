@@ -87,6 +87,8 @@ h2 {
   filter: brightness(150%);
   padding: 20px 100px;
   width: 300vh;
+  color: white;
+  text-align: center;
 }
 
 @media screen and (max-width:768px) {

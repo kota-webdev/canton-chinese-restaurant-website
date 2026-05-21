@@ -43,6 +43,9 @@ align-items:center;
 .hero-image {
   filter: brightness(60%);
   margin-bottom: 100px;
+  width: 100%;
+  object-fit: cover;
+  height: 500px;
 }
 
 .navbar {
@@ -278,6 +281,8 @@ transform: none;
   filter: brightness(150%);
   padding: 20px 100px;
   width: 300vh;
+  color: white;
+  text-align: center;
 }
 
 iframe {
