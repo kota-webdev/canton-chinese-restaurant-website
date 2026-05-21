@@ -82,6 +82,7 @@ h2, h3, h3, h4 {
 .food-item li {
   list-style:none;
   padding: 5px 0;
+  align-items: center;
   
 }
 
