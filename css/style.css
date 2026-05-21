@@ -274,6 +274,17 @@ h6 {
   
 }
 
+.footer-content {
+  background-color: #620808;
+  filter: brightness(150%);
+  padding: 20px 100px;
+  width: 300vh;
+  color: white;
+  text-align: center;
+  margin-top: 5rem;
+  font-size: 1.5rem;
+}
+
 
 @media screen and (max-width:768px) {
   .header-text { 
