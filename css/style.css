@@ -114,6 +114,7 @@ p {
 }
 
 .Most-Popular {
+  display: block;
 position: absolute;
 color: black;
 font-size: 2.5rem;
@@ -125,8 +126,8 @@ white-space: nowrap;
 overflow: hidden;
 top: 15%;
 left: 5%;
-margin: 50px, 0, 25px, 5%;
-transform: translate(-50%, -50%);
+margin: 50px, auto, 25px;
+transform: none;
 }
 
 .grid-container {
@@ -286,8 +287,9 @@ font-family: "Playfair Display", serif;
 }
 
   .header-text { 
-    top: 20%;
-    font-size: 4rem;
+    font-size: 1.2rem;
+    white-space: normal;
+    padding: 0 20px;
   }
   .sub-heading {
     top: 45%
