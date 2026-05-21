@@ -99,6 +99,13 @@ font-weight: 600;
 font-style: italic;
 }
 
+.footer-content {
+  background-color: #620808;
+  filter: brightness(150%);
+  padding: 20px 100px;
+  width: 300vh;
+}
+
 @media screen and (max-width:768px) {
   .header-text { 
     position: absolute;
