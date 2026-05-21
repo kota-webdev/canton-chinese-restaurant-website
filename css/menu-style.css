@@ -103,4 +103,12 @@ h2 {
     position: absolute;
     font-size: 3rem;
   }
+
+body {
+justify-content: center;
+align-items: center;
+margin: auto;
+background: #ffe9c1;
+font-family: "Playfair Display", serif;
+}
 }
