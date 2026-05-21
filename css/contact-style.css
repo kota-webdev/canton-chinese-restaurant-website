@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-body {
+html, body {
   background: #ffe9c1;
   font-family: "Playfair Display", serif;
   display: flex;
@@ -84,6 +84,13 @@ h2 {
   margin-left: 50px;
   margin-right: 50px;
   text-align: center;
+}
+
+footer {
+  width: 100%;
+  left: 0;
+  right: 0;
+  position: relative;
 }
 
 .footer-content {
