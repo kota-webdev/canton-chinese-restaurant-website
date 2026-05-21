@@ -297,6 +297,10 @@ font-family: "Playfair Display", serif;
     font-size: 1.5rem;
   }
 
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+
   .Most-Popular {
     position: static;
     text-align: center;
@@ -304,9 +308,20 @@ font-family: "Playfair Display", serif;
     font-size: 2rem;
   }
 
+  .map-container {
+    flex-direction: column;
+    height: auto;
+    top: 0;
+    margin: 50px 0;
+  }
+
   .food-item {
     margin-top: 20px;
   }
+iframe {
+  width:100%;
+  max-width: 100%;
+}
 
 }
 
