@@ -12,13 +12,13 @@ body {
   font-family: "Playfair Display", serif;
   overflow-x: hidden;
   align-items: center;
-  padding-top: 5rem;
 }
 
 header {
   display: flex;
   justify-content: center;
   align-items: center;
+  position: fixed;
   width: 100%;
   text-align: center;
   left: 0;
@@ -33,6 +33,7 @@ main {
   flex: 1;
   justify-content: center;
 align-items:center;
+margin-top: 80px;
 }
 
 .bg-low-opacity {
@@ -74,7 +75,7 @@ text-align: center;
   min-height: 80vh;
   margin: 0 auto;
   margin-top: 80px;
-  height: 100vh; 
+  height: 90vh; 
   background-size: cover;
   background-position: center;
   clear: both;
@@ -90,7 +91,6 @@ text-align: center;
   overflow: hidden;
   white-space: nowrap;
   justify-content: center;
-  transform: translate(-50%,-50%);
   bottom: 60%;
   left: 50%;
   text-shadow: 2px 2px 4px rgba(0,0,0,0.8);
