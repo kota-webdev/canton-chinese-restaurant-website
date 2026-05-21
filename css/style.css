@@ -222,11 +222,10 @@ transform: translate(-50%, -50%);
   height: 400px;
   border: 0;
   left: 70fpx;
-  top: 100px;
+  top: 150px;
   align-items: center;
   border: 0;
   margin: 150px 0 auto;
-  margin-bottom: 7rem;
 }
 
 iframe {
@@ -271,16 +270,7 @@ h6 {
   gap: 10px;
   margin-left: 60px;
   top: 60px;
-}
-
-.footer-content {
-  background-color: #620808;
-  filter: brightness(150%);
-  padding: 20px 100px;
-  width: 300vh;
-  color: white;
-  text-align: center;
-  font-size: 1.5rem;
+  
 }
 
 
