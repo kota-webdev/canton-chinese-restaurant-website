@@ -8,6 +8,6 @@ A website for Canton Chinese Restaurant.
 
 I will be building a website for Canton Chinese Restaurant located on 419 E Main St in Visalia CA, using technologies such as HTML, CSS, and Bootstrap.
 
-##Live Site Link
+Live Site Link
 
 https://kota-webdev.github.io/canton-chinese-restaurant-website/index.html
